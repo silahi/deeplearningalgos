@@ -1,8 +1,8 @@
 # deeplearningalgos
-Implémentation des algorithmes de deeplearning en python 
-## Info
-Avant d'attaquer le deeplearning en tant que tel , nous allons commencer par implementer quelques models du machine learning
-comm la regression linéaire , la regression logistique et Softmax puis attaquer les réseaux de neurones
-Nous utiliserons la descente du gradient comme algorithme de minimisation
-Nous utiliserons sklern pour les données de test
-pour plus d'infos voir le **Wiki**
+
+## Introduction
+This repository is intended to help you understand how  **Deep-learning** works by presenting you an implementation of them !
+As a refresher , we will start by implementing some basic machine learning models like **Linear Regression, Logistic Regression and Soft-max Regression**.
+We will implement the **model function, the cost function and the minimization function and gradient computation using _Stochastic Gradient Descent and Batch Gradient Descent_**
+
+_For more information see  **Wiki** 👍_
